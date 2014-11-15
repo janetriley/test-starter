@@ -1,0 +1,7 @@
+{
+  "name": "test-starter",
+  "version": "0.0.0",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
